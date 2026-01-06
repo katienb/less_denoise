@@ -1,7 +1,7 @@
 # LESS Denoising Algorithm 
 
-Edited veresion by Katie Brown
-Original code written by Jizhou Li
+> Edited version by Katie Brown
+> Original code written by Jizhou Li
 
 > The core algorithm and implementation are his; I have made a small number of targeted changes and additions to adapt the code for my own use and to make it easier for others in the group to run and validate.  
 >
