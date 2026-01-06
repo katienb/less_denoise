@@ -1,6 +1,8 @@
-# LESS Denoising Algorithm (Edited Version by Katie Brown)
+# LESS Denoising Algorithm 
 
-> This repository contains **my edited version** of the LESS denoising code, originally written by **Jizhou**.  
+Edited veresion by Katie Brown
+Original code written by Jizhou Li
+
 > The core algorithm and implementation are his; I have made a small number of targeted changes and additions to adapt the code for my own use and to make it easier for others in the group to run and validate.  
 >
 > In particular:
